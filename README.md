@@ -16,5 +16,6 @@ Each file corresponds to one of the days of AdventJS 2024.
 Inside the files, you'll find:
 Problem description: A brief explanation of what the challenge is about.
 Solution: My approach to solving the problem, with comments in the code for better understanding.
+This challenge is incomplete due to a lack of time. However, I managed to complete more than half of the tasks. During this time, I took full advantage of the practice and the opportunity to learn new techniques and methodologies in JavaScript.
 📝 Final Notes
 Working on the exercises from AdventJS 2024 has been an excellent learning opportunity, and I hope this repository can also serve as a reference or inspiration for others. Thank you for visiting!
